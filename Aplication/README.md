@@ -1,5 +1,6 @@
 # Ejemplo de markdown
 
+
 Los primeros **comandos** son:
 
 sails new 'Aplicacion'
@@ -13,10 +14,40 @@ Las herramientas que vamos a usar son:
   * sails new
   - sails lift
 2. Docker
+
+  
+  
+  
+  -lista2
+  
 3. Webstorm
 4. Postman
 5. Dbeaver
+- lista1
+- lista2
+- lista3
 
+#Mi primer link 
+
+[Ir a google :)](https:/www.google.com)
+![imagen de github](http://www.aha.io/assets/github.7433692cabbfa132f34adb034e7909fa.png)
+
+##Codigo 
+Para utilizar  codigo necesitamos tres tildes al reves al inicio y al fin 
+
+```
+String hola="hola mundo"
+```
+
+```
+>> sails new Aplication1
+>>cd Aplication1
+>>salis lift
+```
+Escogemos la opcion 2 y damos enter 
+```
+var a=5;
+``
 
 ## Header 2
 

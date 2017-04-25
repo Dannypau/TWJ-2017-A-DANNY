@@ -1,10 +1,5 @@
 ##comandos DOCKER
-##mysql
-Para utilizar docker con mysql se utiliza el siguiente comando
 
-```
->> docker run --name adrian -e MYSQL_ROOT_PASSWORD=123456 -e MYSQL_DATABASE=adrian -e MYSQL_USER=adrian -e MYSQL_PASSWORD=123456 -p 3306:3306 -d mysql
-```
 
 ##docker ps 
 Este comando listaba **TODOS** los contenedores que estan instalados
@@ -31,3 +26,13 @@ Este comando **elimina** los o el contenedor que esta **detenido**
 >> docker rm m
 >> docker rm 12 mi
 ```
+##mysql
+Para utilizar docker con mysql se utiliza el siguiente comando
+
+```
+>> docker run --name adrian -e MYSQL_ROOT_PASSWORD=123456 -e MYSQL_DATABASE=adrian -e MYSQL_USER=adrian -e MYSQL_PASSWORD=123456 -p 3306:3306 -d mysql
+```
+
+## --name adrian 
+
+

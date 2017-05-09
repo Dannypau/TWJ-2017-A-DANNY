@@ -9,3 +9,31 @@
 // Comentarios una sola linea
 
 console.log('Hello Kitty');
+
+var Danny;
+Danny = {
+    nombre: 'Daniela',
+    apellido: 'Ramos',
+    fechaNacimiento : new Date(),
+    imprimir: function () {
+        console.log(this.nombre, this.apellido);// accede a los atribitos del objeto
+
+    },
+    obtnerAnio:function () {
+        return (this.fechaNacimiento.getFullYear());
+    },
+    diferenciaEdad:function (edadAComparar) {
+        var diferencia = this.fechaNacimiento.getFullYear()-edadAComparar;
+        if(diferencia<0){
+            return Math.abs(diferencia);
+        }else{
+            return diferencia;
+        }
+
+
+    }
+
+};
+Danny.imprimir();
+console.log(Danny.obtnerAnio());
+console.log(Danny.diferenciaEdad(23));

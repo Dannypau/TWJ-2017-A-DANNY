@@ -37,3 +37,19 @@ Danny = {
 Danny.imprimir();
 console.log(Danny.obtnerAnio());
 console.log(Danny.diferenciaEdad(23));
+
+
+
+//repaso
+
+var Danny = {
+    id:1,
+    nombre:'Danny',
+    apellido:'Ramos',
+    fechaNacimiento: new Date(),
+    diferenciaEdad : function(edadComparar){
+        return (Math.abs(this.fechaNacimiento.getFullYear() - edadComparar))}
+}
+
+Danny.diferenciaEdad(2030)
+Danny.fechaNacimiento.getFullYear()

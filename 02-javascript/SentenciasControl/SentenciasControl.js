@@ -12,6 +12,7 @@ if (conHambre){
 var fecha =new Date().getDay();
 
 switch (fecha) {
+
     case 0:
         console.log("Domingo");
     case 1:

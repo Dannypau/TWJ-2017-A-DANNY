@@ -13,5 +13,20 @@ La capital del país es Quito y la ciudad más poblada, Guayaquil. La lengua ofi
 
 var htmlEM5 = "fsdfsf2"+nombre;
 
-htmlEM5
+
+var parrafoLargo= `Guayaquil (oficialmente Santiago de Guayaquil) es la ciudad más poblada y la más grande de la República del Ecuador; con una población en su área metropolitana cercana a los 3 113 725 habitantes. El área urbana de Guayaquil, también conocida como Gran Guayaquil, se alinea entre las ciudades más grandes de América. Es además un importante centro de comercio con influencia a nivel regional en el ámbito comercial, de finanzas, político, cultural y de entretenimiento. La ciudad es la cabecera cantonal del cantón homónimo y la capital de la Provincia del Guayas. Localizada en la costa del Océano Pacífico en la Región Litoral del Ecuador, el este de la ciudad está a orillas del río Guayas, a unos 20 kilómetros de su desembocadura en el Océano Pacífico, mientras está rodeada por el Estero Salado en su parte suroccidental y el inicio de la Cordillera Chongón Colonche, una cadena de montañas de media altitud, en el noroeste. El golfo de Guayaquil es la entrante de agua más grande del Océano Pacífico en Sudamérica. Sus salientes extremas se fijan en Cabo Blanco, en Perú, y la Provincia de Santa Elena, en Ecuador, cubriendo una distancia de 230 km.
+kdlksjdslkdjs
+hkhhhkj
+jhhkjhjkhjk
+khjkhjkh`
+
+parrafoLargo
+
+var parrafoCorrto= "Guayaquil (oficialmente Santiago de Guayaquil) es la ciudad más poblada y la más grande de la República del Ecuador; con una población en su área metropolitana cercana a los 3 113 725 habitantes. El área urbana de Guayaquil, también conocida como Gran Guayaquil, se alinea entre las ciudades más grandes de América. Es además un importante centro de comercio con influencia a nivel regional en el ámbito comercial, de finanzas, político, cultural y de entretenimiento. La ciudad es la cabecera cantonal del cantón homónimo y la capital de la Provincia del Guayas. Localizada en la costa del Océano Pacífico en la Región Litoral del Ecuador, el este de la ciudad está a orillas del río Guayas, a unos 20 kilómetros de su desembocadura en el Océano Pacífico, mientras está rodeada por el Estero Salado en su parte suroccidental y el inicio de la Cordillera Chongón Colonche, una cadena de montañas de media altitud, en el noroeste. El golfo de Guayaquil es la entrante de agua más grande del Océano Pacífico en Sudamérica. Sus salientes extremas se fijan en Cabo Blanco, en Perú, y la Provincia de Santa Elena, en Ecuador, cubriendo una distancia de 230 km."
+    +"kdlksjdslkdjs"+
+    "hkhhhkj"+
+    "jhhkjhjkhjk"+
+    "khjkhjkh"
+
+parrafoCorrto
 
